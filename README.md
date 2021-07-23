@@ -1,3 +1,8 @@
-#Jake Dawson
+# Jake Dawson
 
-I exist and sometimes write code
+## Placement Developer for NEXT
+
+## Student at Sheffield Hallam
+
+Terrible at most things
+
